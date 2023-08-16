@@ -37,7 +37,7 @@
   <div class="theme-info">{#
   #}{{ __('footer.theme') }} &mdash; {#
   #}<a class="theme-link" target="_blank" href="https://hylasborwen.github.io">{#
-    #}小祺{#
+    #}bowen{#
   #}</a>{% if theme.footer.theme.version %}<span class="post-meta-divider">|</span> <span id="busuanzi_container_site_uv">
   Total visited&nbsp;<span id="busuanzi_value_site_uv"></span>&nbsp;times
 </span> {% endif %}{#
